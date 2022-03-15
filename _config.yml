@@ -1,0 +1,12 @@
+title: "Megan Kwok"
+email: megankwok.code@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is my portfolio website!
+baseurl: "/" 
+url: "/" 
+github_username:  m1kwok
+
+sass:
+  sass_dir: _sass
+
+icon: /assets/img/icon.jpg
